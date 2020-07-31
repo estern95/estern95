@@ -1,4 +1,4 @@
-### Hi there 👋
+# Eric Stern
 
 <!--
 **estern95/estern95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Eric! I use he/him/his pronouns and I am data scientist currently working in Boudler Colorado. I currently work in the clean tech industry, using machine learning and statistics to help companies save on energy and better retain customers through efficiency programs. Beyond that, I am a clean code fanatic, obsesive learner, and future cat owner. 
