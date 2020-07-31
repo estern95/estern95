@@ -1,6 +1,6 @@
 # Eric Stern
 
-![]('Causual Headshot.jpg')
+![](https://github.com/estern95/estern95/blob/master/Casual%20Headshot.jpg?raw=true)
 <!--
 **estern95/estern95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 -->
 
 Hi, I'm Eric! I use he/him/his pronouns and I am data scientist currently working in Boudler Colorado. I currently work in the clean tech industry, using machine learning and statistics to help companies save on energy and better retain customers through efficiency programs. Beyond that, I am a clean code fanatic, obsesive learner, and future cat owner. 
+
+## Projects
+
+Check out my public repos! Here are the ones I am most proud of:
+
+* [tidyspark](https://github.com/danzafar/tidyspark): A tidy API for Apache Spark for R (R and Scala).
+* [Boulder City Council Emails](https://github.com/estern95/boulder_council_emails#boulder-colorado-local-politics): A natural language processing project analysing the email traffic to my local politicians (Python and R). 
+* [Marcov in Chains](https://github.com/estern95/Marcov-in-Chains) A little project that generates text using Marcov chains and public domain books (Julia and R). 
