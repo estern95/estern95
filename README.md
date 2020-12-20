@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Eric! I use he/him/his pronouns and I am data scientist working in Boulder Colorado. I work in the clean tech industry, using machine learning and statistics to help companies save on energy and better retain customers through efficiency programs. Beyond that, I am a clean code fanatic, obsessive learner, and future cat owner. 
+Hi, I'm Eric! I use he/him/his pronouns and I am data scientist working in Boulder Colorado. I work in the clean tech industry, using machine learning and statistics to help companies save on energy and better retain customers through efficiency programs. Beyond that, I am a clean code fanatic, obsessive learner, and future cat owner. Outside of github and coding, I love to cook, rock climb and ski 🎿. 
 
 ## Projects
 
 Check out my public repos! Here are the ones I am most proud of:
 
-* [tidyspark](https://github.com/danzafar/tidyspark): A tidy API for Apache Spark for R (R and Scala).
-* [Boulder City Council Emails](https://github.com/estern95/boulder_council_emails#boulder-colorado-local-politics): A natural language processing project analysing the email traffic to my local politicians (Python and R). 
-* [Marcov in Chains](https://github.com/estern95/Marcov-in-Chains) A little project that generates text using Marcov chains and public domain books like Alice in Wonderland (Julia and R). 
+* 🧼 🧹[tidyspark](https://github.com/danzafar/tidyspark): A tidy API for Apache Spark for R (R and Scala).
+* 🥘 🍳 [Recipe Mojo](https://github.com/estern95/Recipe-Mojo): Generate baking and cooking recipes based on an ingredient list! (Tensorflow & Python)
+* 🖋 📝 📥 [Boulder City Council Emails](https://github.com/estern95/boulder_council_emails#boulder-colorado-local-politics): A natural language processing project analysing the email traffic to my local politicians (Python and R). 
 
 ## Contact
 
