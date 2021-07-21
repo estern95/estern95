@@ -1,6 +1,6 @@
 # Eric Stern
 
-![](https://github.com/estern95/estern95/blob/master/Casual%20Headshot.jpg?raw=true)
+
 <!--
 **estern95/estern95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 -->
 
 Hi, I'm Eric! I use he/him/his pronouns and I am data scientist working in Boulder Colorado. I work in the clean tech industry, using machine learning and statistics to help companies save on energy and better retain customers through efficiency programs. Beyond that, I am a clean code fanatic, obsessive learner, and future cat owner. Outside of github and coding, I love to cook, rock climb and ski 🎿. 
+
+![](https://github.com/estern95/estern95/blob/master/Casual%20Headshot.jpg?raw=true)
 
 ## Projects
 
